@@ -1,0 +1,44 @@
+https://fonts.googleapis.com/css?family=Catamaran:200,500&text=1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ%20%21%22%23%24%25%26%27%28%29%2a%2b%2c%2d%2e%2f%3a%3b%3c%3d%3e%3f%40%5b%5c%5d%5e%5f%60%7b%7c%7d%7e%296%c2a9%c2ae%c299
+
+https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400&text=1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ%20%21%22%23%24%25%26%27%28%29%2a%2b%2c%2d%2e%2f%3a%3b%3c%3d%3e%3f%40%5b%5c%5d%5e%5f%60%7b%7c%7d%7e%296%c2a9%c2ae%c299
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+  %20
+! %21
+" %22
+# %23
+$ %24
+% %25
+& %26
+' %27
+( %28
+) %29
+* %2a
++ %2b
+, %2c
+- %2d
+. %2e
+/ %2f
+: %3a
+; %3b
+< %3c
+= %3d
+> %3e
+? %3f
+@ %40
+[ %5b
+\ %5c
+] %5d
+^ %5e
+_ %5f
+` %60
+{ %7b
+| %7c
+} %7d
+~ %7e
+– %296
+© %c2a9
+® %c2ae
+™ %c299
